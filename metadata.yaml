@@ -1,0 +1,43 @@
+_repo: Dhoula-Bel-Ein-Rosenkreuzer-Roman_62578
+_version: 0.0.1
+alternative_title: The wonderful story of Ravalette. German
+contributor:
+  translator:
+    agent_name: Meyrink, Gustav
+    alias: Meyer-Meyrink, Gustav
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '35032'
+    url: http://www.gutenberg.org/2009/agents/35032
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustav_Meyrink
+    - https://de.wikipedia.org/wiki/Gustav_Meyrink
+creator:
+  author:
+    agent_name: Randolph, Paschal Beverly
+    aliases:
+    - Lee, Griffin
+    - Randolph, P. B. (Paschal Beverly)
+    - St. Leon, Count de
+    - Randolph, Paschal Beverley
+    birthdate: 1825
+    deathdate: 1874
+    gutenberg_agent_id: '37633'
+    url: http://www.gutenberg.org/2009/agents/37633
+    wikipedia: https://en.wikipedia.org/wiki/Paschal_Beverly_Randolph
+description: ''
+gutenberg_issued: '2020-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62578'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Rosicrucians -- Fiction'
+- !lcsh 'Spiritualism -- Fiction'
+- GITenberg
+title: 'Dhoula Bel: Ein Rosenkreuzer-Roman'
+url: http://www.gutenberg.org/ebooks/62578
