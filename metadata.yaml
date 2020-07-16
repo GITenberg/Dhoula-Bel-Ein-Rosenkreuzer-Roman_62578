@@ -1,5 +1,5 @@
 _repo: Dhoula-Bel-Ein-Rosenkreuzer-Roman_62578
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The wonderful story of Ravalette. German
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Gustav_Meyrink
     - https://de.wikipedia.org/wiki/Gustav_Meyrink
+covers:
+- cover_type: archival
+  image_path: 62578-h/images/cover.jpg
 creator:
   author:
     agent_name: Randolph, Paschal Beverly
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37633
     wikipedia: https://en.wikipedia.org/wiki/Paschal_Beverly_Randolph
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62578#Dhoula-Bel-Ein-Rosenkreuzer-Roman
 gutenberg_issued: '2020-07-07'
 gutenberg_type: Text
 identifiers:
